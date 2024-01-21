@@ -1,0 +1,44 @@
+body
+{
+    text-align: center;
+    background-color:rgb(127, 131, 255);
+    color:rgb(3, 7, 8);
+    margin: 25px;
+}
+h1
+{
+    color:rgb(22, 11, 11);
+}
+h2
+{
+    color:rgb(19, 12, 18);
+}
+p
+{
+    text-align: justify;
+    padding-left:  30px;
+    padding-right:  30px;;
+}
+strike
+{
+    background-color: yellow;
+    color:red
+}
+input
+{
+    height: 35px;
+    width:285px;
+    border:2px solid cornflowerblue;
+    border-radius: 25px;
+    font-size: 18px;
+    padding-left:6%;
+}
+button{
+    height:45px;
+    width:325px;
+    background-color: darkturquoise;
+    font-size:25px;
+    border:2px solid crimson;
+    border-radius: 25px;
+    margin-bottom: 45px;
+}
